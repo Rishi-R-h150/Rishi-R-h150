@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishi
-- 👀 I’m interested in MachineLearning and Algorithms
+- 👀 I’m interested in Algorithms
 - 🌱 I’m currently learning Software development
 - 📫 How to reach me - rishi212004200@gmail.com
 
