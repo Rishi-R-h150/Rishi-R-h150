@@ -6,7 +6,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;**About Me**
 
-I'm Rishi R, a dedicated BTech student in **Artificial Intelligence and Data Science** at Sri Shakthi Institute of Engineering and Technology, maintaining a **CGPA of 8.30**. Currently, I work as a **Teaching Assistant**, mentoring 30+ students in Python, DSA, Operating Systems, DBMS, OOP, and Computer Networks, conducting **weekly coding sessions** with real-world examples to enhance skills.
+I'm Rishi R, a dedicated BTech student in **Artificial Intelligence and Data Science** at Sri Shakthi Institute of Engineering and Technology, maintaining a **CGPA of 8.30**.
 
 I have hands-on experience in **Python, C++, JavaScript, SQL**, and frameworks like **PyTorch, TensorFlow, and React**. I’ve built projects such as:
 
