@@ -14,7 +14,7 @@ I have hands-on experience in **Python, C++, JavaScript, SQL**, and frameworks l
 - A **secure e-learning platform** with DSA problem libraries  
 - A **CNN-based hand sign classifier** with 0.92 F1 Score  
 
-With **750+ coding problems solved** on LeetCode and GFG, a **Udemy certification in Deep Learning**, and a **top-9 rank among 1200+ students** in college competitions, I’m passionate about leveraging AI/ML to solve real-world challenges and contribute to open-source initiatives.
+With **750+ coding problems solved** on LeetCode and GFG and a **top-9 rank among 1200+ students** in college competitions, I’m passionate about leveraging AI/ML to solve real-world challenges and contribute to open-source initiatives.
 
 ---
 
