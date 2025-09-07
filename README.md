@@ -53,6 +53,10 @@ With **750+ coding problems solved** on LeetCode and GFG and a **top-9 rank amon
 
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishi-R-h150&show_icons=true&theme=radical)
 
+### 💬 Most Used Languages
+
+![Rishi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-R-h150&layout=compact&theme=radical)
+
 ---
 
 ### ✨ Projects
