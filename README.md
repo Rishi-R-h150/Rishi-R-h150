@@ -58,7 +58,10 @@ With **750+ coding problems solved** on LeetCode and GFG and a **top-9 rank amon
 ![Rishi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-R-h150&layout=compact&theme=radical)
 
 ---
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/R_ishi_R?theme=radical&font=Karma&ext=heatmap)
 
+---
 ### ✨ Projects
 
 #### **1. Decoder-only Transformer**
