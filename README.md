@@ -24,14 +24,8 @@ With **750+ coding problems solved** on LeetCode and GFG and a **top-9 rank amon
 
 ### 🚀 Interests
 - Open-source contributions  
-- Coding projects  
-- Helping others learn  
-
-### 🎮 Hobbies
-- Socializing with friends  
-- Playing video games  
-- Listening to music  
-
+- Coding projects
+  
 ### 📫 Reach Me At
 [rishi212004200@gmail.com](mailto:rishi212004200@gmail.com)
 
